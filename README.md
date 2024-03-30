@@ -11,7 +11,7 @@ Visual studio 2022
 Sql sever 2019
 🛠️ Installation
 Import script.sql:
-generate script *.sql -> excuter
+generate script *.sql -> excuter 
 Run the application:
 run start with HairSara and Template at the same time
 🎯 How to use
